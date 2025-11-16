@@ -94,8 +94,9 @@
 ## 🚀 Hướng dẫn chạy
 1. Tải SQL về máy và download file SQL_QLS.sql của mình nè<3.
 2. Tải PyCharm, download hai file main.py và db.py nha.
-3. Kết nối PyCharm với SQL Server:
-   -Cài thư viện Python trong PyCharm, mở Terminal gõ: pip install pyodbc(import pyodbc trong db.py)
-   -Hãy tải OBDC Driver ... for SQL Server(sử dụng trong db.py)
-   -SERVER: nếu server khác, đổi → tên server của cậu(cụ thể là SQL để copy tên server)
-5. Lưu ý: Qua SQL chạy các bảng trước sau đó qua PyCharm chạy db.py rồi mới qua main.py chạy code, thế là xong nhé.
+**3. Kết nối PyCharm với SQL Server:**
+   **-Cài thư viện Python trong PyCharm, mở Terminal gõ: pip install pyodbc(import pyodbc trong db.py)**
+   **-Hãy tải OBDC Driver ... for SQL Server(sử dụng trong db.py)**
+   **-SERVER: nếu server khác, đổi → tên server của cậu(cụ thể là SQL để copy tên server)**
+   ***Lưu ý: Qua SQL chạy các bảng trước sau đó qua PyCharm chạy db.py rồi mới qua main.py chạy code, thế là xong nhé.***
+# **---THANK YOU FOR READING---**
