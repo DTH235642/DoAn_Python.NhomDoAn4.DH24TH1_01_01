@@ -1,4 +1,4 @@
-# 📚 Quản Lý Thư Viện (Library Management System)
+# 📚 Quản Lý Sách
 
 ## 🎯 Mục tiêu đồ án
 
