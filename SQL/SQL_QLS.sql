@@ -130,7 +130,7 @@ VALUES
 INSERT INTO NhanVien (MaTK, HoTen, SDT, DiaChi)
 VALUES
 (2, N'Teri', '0900000001', N'Phòng Điều Hành'),
-(6, N'Aya', '0912345678', N'Quầy Thủ Thư 1');
+(3, N'Aya', '0912345678', N'Quầy Thủ Thư 1');
 
 SELECT * FROM TheLoai;
 
@@ -145,3 +145,4 @@ SELECT * FROM ChiTietPhieuMuon;
 SELECT * FROM PhieuTra;
 
 SELECT * FROM NhanVien;
+
